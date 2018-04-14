@@ -1,0 +1,32 @@
+|===
+|Path|Type|Description
+
+|`+contato.nome+`
+|`+String+`
+|Nome do Contato
+
+|`+contato.canal+`
+|`+String+`
+|Canal de Comunicacao com o Contato
+
+|`+contato.valor+`
+|`+String+`
+|Tipo de Comunicacao associada ao Contato
+
+|`+contato.observacao+`
+|`+String+`
+|Observacoes
+
+|`+_links+`
+|`+Object+`
+|Contatos URI´s
+
+|`+_links.self.href+`
+|`+String+`
+|Contato self reference URI
+
+|`+_links.search.href+`
+|`+String+`
+|Link de Pesquisa dos Contatos
+
+|===

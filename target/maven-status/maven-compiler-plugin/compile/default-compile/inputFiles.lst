@@ -1,0 +1,17 @@
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/repositories/ContatoRepository.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/controller/ContatoController.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/service/ICRUDService.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/config/JPAConfig.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/controller/ApiController.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/cors/CorsFilter.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/domain/Contato.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/resource/ApiLinksResource.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/config/SpringSecurityConfig.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/exceptions/RequestValidationException.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/resource/ContatoResource.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/service/ContatoServiceImpl.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/config/SpringJPABootstrap.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/service/IContatoService.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/domain/ContatoFiltro.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/exceptions/ApiExceptionHandler.java
+/Users/sfelinto/projects/workspace-spring/desafio-globo-api/src/main/java/br/com/desafioglobo/DesafioGloboApiApplication.java
