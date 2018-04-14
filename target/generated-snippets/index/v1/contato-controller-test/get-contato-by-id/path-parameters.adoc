@@ -1,8 +1,0 @@
-./api/v1/contatos/{id}
-|===
-|Parameter|Description
-
-|`+id+`
-|Contato ID
-
-|===
